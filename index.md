@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to Keep In Touch (KIT)
+Never lose a friend again!
 
-You can use the [editor on GitHub](https://github.com/eurubkov/KeepInTouch-Website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### About
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+How many times have you thought that you haven't talked to someone and that you need to send them a text or an email, and then quickly forgot about doing it because a busy life got in a way? 
+"Keep In Touch" attempts to solve this problem by letting you choose the contacts you want to be reminded of and how often. And when a notification arrives, you can quickly call or text them.
 
-### Markdown
+### Privacy
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eurubkov/KeepInTouch-Website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Keep In Touch will need access to your contacts list and that's it! We never know who your contacts are and all the magic happens inside your phone - nothing goes to the internet, so we won't know anything about you or your friends. We hate spammers, scammers and whoever else gains and treats our data irresponsibly, and since we have no access to your data - you can make sure it won't leave your phone. 
